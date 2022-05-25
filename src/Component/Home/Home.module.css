@@ -1,0 +1,8 @@
+/* fontColor:#fff;
+$borderColor:#a8a8a83d;
+$borderHeight:1px; */
+.brdr{
+    height: 1px;
+    background-color:#a8a8a83d ;
+    color: red;
+}
